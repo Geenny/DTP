@@ -1,0 +1,31 @@
+.selector-div {
+    padding: 0vh 4vw 0vh 0vw;
+}
+
+.selector {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.selector-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.selector-text {
+    padding: 0vh 2vw;
+    color: #CCC;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14pt;
+    margin: 5px 0px 0px 0px;
+}
+
+.selector-title {
+    padding: 0px 0px 4px 0px;
+    color: #CCC;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

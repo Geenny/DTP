@@ -1,0 +1,13 @@
+.bottom-panel-div {
+    height: 100px;
+    background-color: #242424;
+    padding: 0vh 10vw 0vh 10vw;
+    display: flex;
+    align-items: center;
+}
+
+.bottom-panel {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}

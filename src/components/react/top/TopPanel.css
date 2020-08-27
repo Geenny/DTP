@@ -1,0 +1,13 @@
+.top-panel-div {
+    height: 60px;
+    background-color: #242424;
+    padding: 0vh 10vw 0vh 10vw;
+    display: flex;
+    align-items: center;
+}
+
+.top-panel {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}

@@ -1,0 +1,21 @@
+.text-div {
+    display: flex;
+    flex-direction: row;
+    padding: 2px 5px;
+}
+
+.text {
+    color: #CCC;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14pt;
+    margin: 5px 0px 0px 0px;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-padding {
+    padding: 0px 10px;
+}

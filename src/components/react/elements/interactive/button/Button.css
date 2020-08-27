@@ -1,0 +1,47 @@
+.button-div {
+    padding: 1px;
+}
+
+.button {
+    width: 70px;
+    border-radius: 15px;
+    padding: 15px 25px;
+    margin-right: .5em;
+    font-size: 22px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+.button-play {
+    width: 100%;
+    min-width: 60px;
+    /* border-radius: 15px; */
+    padding: 15px 25px;
+    font-size: 22px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+.button-play-left {
+    border-radius: 10px 0px 0px 10px;
+}
+.button-play-right {
+    border-radius: 0px 10px 10px 0px;
+}
+  
+.button-play:active {
+    transform: translate(0px, 1px);
+    -webkit-transform: translate(0px, 1px);
+}
+.button-red {
+    background-color: #73192B;
+}
+.button-yellow {
+    background-color: rgb(184, 132, 35);
+}
+  
+.red:hover {
+    background-color: rgb(99, 19, 35);
+}

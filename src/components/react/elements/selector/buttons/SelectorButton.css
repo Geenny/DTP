@@ -1,0 +1,29 @@
+.selector-button {
+    width: 100%;
+    min-width: 40px;
+    padding: 0px 4px 4px 4px;
+    font-size: 22px;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+    background-color: rgb(89, 160, 8);
+    margin: 1px;
+}
+
+.selector-button-left {
+    border-radius: 10px 0px 0px 10px;
+}
+
+.selector-button-right {
+    border-radius: 0px 10px 10px 0px;
+}
+
+  
+.selector-button:active {
+    transform: translate(0px, 1px);
+    -webkit-transform: translate(0px, 1px);
+}
+  
+.selector-button:hover {
+    background-color: rgb(104, 185, 10);
+}
